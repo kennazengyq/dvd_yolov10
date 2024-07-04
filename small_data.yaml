@@ -1,0 +1,5 @@
+train: /Users/kenna/Desktop/dvd/Hunter_CC/small_data/train/images
+val: /Users/kenna/Desktop/dvd/Hunter_CC/small_data/val/images
+
+nc: 2
+names: ['non',drone']
