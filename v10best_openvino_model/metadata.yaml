@@ -1,6 +1,6 @@
-description: Ultralytics YOLOv10n model trained on data.yaml
+description: Ultralytics YOLOv10n model trained on /home/kenna/dvd/data.yaml
 author: Ultralytics
-date: '2024-07-08T13:18:38.010496'
+date: '2024-07-09T15:41:05.168725'
 version: 8.2.49
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
