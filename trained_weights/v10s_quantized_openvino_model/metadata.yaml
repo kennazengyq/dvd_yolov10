@@ -1,0 +1,15 @@
+description: Ultralytics YOLOv10n model trained on data.yaml
+author: Ultralytics
+date: '2024-08-12T10:01:25.794407'
+version: 8.2.73
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 480
+- 480
+names:
+  0: phantom
+  1: mavic

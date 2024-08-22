@@ -1,0 +1,5 @@
+train: /home/kenna/dvd/train_val_data/train/images
+val: /home/kenna/dvd/train_val_data/val/images
+
+nc: 2
+names: ['phantom','mavic']

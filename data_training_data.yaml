@@ -1,0 +1,5 @@
+train: /home/kenna/dvd/drone_training_data/train/images
+val: /home/kenna/dvd/drone_training_data/val/images
+
+nc: 2
+names: ['phantom','mavic']
